@@ -37,6 +37,22 @@ module.exports = {
         gfm: true,
         plugins: [
           netlifyCmsPaths,
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+              urlOverrides: [
+                {
+                  id: 'youtube',
+                  embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                }
+              ] 
+            }
+          },
           `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-images`,
@@ -48,6 +64,8 @@ module.exports = {
               loading: "lazy",
             },
           },
+          "gatsby-remark-embed-video",
+
           `gatsby-remark-responsive-iframe`,
           {
             resolve: `gatsby-remark-prismjs`,
@@ -82,8 +100,8 @@ module.exports = {
         name: `Foundation`,
         short_name: `Foundation`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#8cc176`,
+        theme_color: `#8cc176`,
         display: `standalone`,
         icon: `static/assets/stackrole.png`,
       },

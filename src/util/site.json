@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "2Pessoas",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "2Brothers trading",
+    "siteUrl": "https://2Pessoas.com",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@PessoaSDiogo"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-172497275-1"
 }
