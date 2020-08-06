@@ -3,6 +3,6 @@ template: about-page
 slug: /about
 title: About Foundation
 ---
-Working in Progress
+Hi from [@pessoadiogo](https://www.etoro.com/people/diogopessoa) & [@brunoPessoa](https://www.etoro.com/people/pessoa_bs)
 
-About Bruno and Diogo.
+Content creation In Progress

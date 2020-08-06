@@ -3,5 +3,4 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-
-Just send us a message using the form below or follow us at [etoro](https://www.etoro.com/). [@pessoadiogo](https://www.etoro.com/people/diogopessoa) and [@pessoa_bs](https://www.etoro.com/people/pessoa_bs).
+Enjoyed our posts have a question? get in touch! follow us at **etoro** look for [@Diogo](https://www.etoro.com/people/diogopessoa) & [@Bruno](https://www.etoro.com/people/pessoa_bs) or send a message on the form below. Keep trading!

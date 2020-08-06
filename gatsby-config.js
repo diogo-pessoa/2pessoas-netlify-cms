@@ -64,8 +64,6 @@ module.exports = {
               loading: "lazy",
             },
           },
-          "gatsby-remark-embed-video",
-
           `gatsby-remark-responsive-iframe`,
           {
             resolve: `gatsby-remark-prismjs`,
@@ -97,11 +95,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `2pessoas`,
+        short_name: `2pessoas`,
         start_url: `/`,
-        background_color: `#8cc176`,
-        theme_color: `#8cc176`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
         display: `standalone`,
         icon: `static/assets/stackrole.png`,
       },
