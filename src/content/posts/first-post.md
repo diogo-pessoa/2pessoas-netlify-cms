@@ -8,3 +8,10 @@ description: sdasd
 ---
 
 New Posts coming soon, we have fun and enjoy talking about trading! Follow-us on etoro in the meantime, [@Diogo](https://www.etoro.com/people/diogopessoa) & [@Bruno](https://www.etoro.com/people/pessoa_bs)
+
+work in progress testing plugin for embedded youtube video: 
+
+### youtube video:
+
+`youtube: https://www.youtube.com/watch?v=MgvRkKtpv5U`
+
