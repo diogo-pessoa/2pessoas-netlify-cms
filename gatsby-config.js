@@ -95,11 +95,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `2pessoas`,
-        short_name: `2pessoas`,
+        name: `2 pessoas`,
+        short_name: `2 pessoas`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#0d904f`,
+        theme_color: `#0d904f`,
         display: `standalone`,
         icon: `static/assets/stackrole.png`,
       },
