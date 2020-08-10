@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-2 brothers trading and sharing lessons learned the hard way, hopefully that will help other avoiding the same beginner mistakes.
+2 brothers trading and sharing lessons learned. Hope this can help others avoiding the beginners mistakes and start to make consistent and maintanable profit in trading. 
