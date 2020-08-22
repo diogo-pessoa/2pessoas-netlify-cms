@@ -1,17 +1,15 @@
 ---
 template: blog-post
-title: Coming soon!
+title: Em construção!
 slug: newPost
 date: 2020-08-06T00:00:00.000Z
-description: sdasd
+description: Primeiro Post
 
 ---
 
-New Posts coming soon, we have fun and enjoy talking about trading! Follow-us on etoro in the meantime, [@Diogo](https://www.etoro.com/people/diogopessoa) & [@Bruno](https://www.etoro.com/people/pessoa_bs)
+Estamos Trabalhando em novos posts, por enquanto fique com um `Tubarão`, pois estamos sem únicornios em estoque.
 
-work in progress testing plugin for embedded youtube video: 
+<p style="text-align: center;"><span style='font-size:100px;'>&#129416;</span> </p>
 
-### youtube video:
-
-`youtube: https://www.youtube.com/watch?v=MgvRkKtpv5U`
+<!-- `youtube: https://www.youtube.com/watch?v=MgvRkKtpv5U` -->
 

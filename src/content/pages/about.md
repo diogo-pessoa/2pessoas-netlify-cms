@@ -1,10 +1,9 @@
 ---
 template: about-page
 slug: /about
-title: About us
+title: Sobre Nós
 ---
-Hi from [@pessoadiogo](https://www.etoro.com/people/diogopessoa) & [@brunoPessoa](https://www.etoro.com/people/pessoa_bs)
 
-Content creation In Progress
+Somos dois expatriados que usamos o trading para diminuir fronteiras. 
 
-Enjoyed our posts, have a question? get in touch! follow us at **etoro** look for [@Diogo](https://www.etoro.com/people/diogopessoa) & [@Bruno](https://www.etoro.com/people/pessoa_bs). Keep trading!
+Gostou do conteúdo? entre em contato! e siga-nos na [**etoro**](etoro.com) [@diogopessoa](https://www.etoro.com/people/diogopessoa) & [@brunoPessoa](https://www.etoro.com/people/pessoa_bs). Keep trading! 

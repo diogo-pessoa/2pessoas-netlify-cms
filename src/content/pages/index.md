@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: 2 brothers trading
-tagline: Trading & Learning
-featuredImage: /assets/comingSoon.jpg
+title: 2 Irmãos trading
+tagline: Keep trading!
+featuredImage: /assets/bear-Bull-chess.jpg
 cta:
-  ctaText: Know more
+  ctaText: Saiba mais
   ctaLink: /about
 ---
 
-2 brothers trading and sharing lessons learned. Hope this can help others avoiding the beginners mistakes and start to make consistent and maintanable profit in trading. 
+2 Irmãos trading. 

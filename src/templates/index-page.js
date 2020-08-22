@@ -23,7 +23,7 @@ export const pageQuery = graphql`
             sizes {
               src
             }
-          }
+           }
         }
         cta {
           ctaText
