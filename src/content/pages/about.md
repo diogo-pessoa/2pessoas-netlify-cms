@@ -2,8 +2,12 @@
 template: about-page
 slug: /about
 title: Sobre Nós
+featuredImage: /assets/Graph.jpg
+cta:
+  ctaText: Saiba mais
+  ctaLink: /about
 ---
 
-Somos dois expatriados que usamos o trading para diminuir fronteiras. 
+Dois expatriados trading para diminuir fronteiras. 
 
-Gostou do conteúdo? entre em contato! e siga-nos na [**etoro**](etoro.com) [@diogopessoa](https://www.etoro.com/people/diogopessoa) & [@brunoPessoa](https://www.etoro.com/people/pessoa_bs). Keep trading! 
+Gostou do conteúdo? Siga-nos na [**etoro**](etoro.com) [@diogopessoa](https://www.etoro.com/people/diogopessoa) & [@brunoPessoa](https://www.etoro.com/people/pessoa_bs). Keep trading! 
