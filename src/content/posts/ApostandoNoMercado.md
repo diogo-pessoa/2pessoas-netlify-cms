@@ -41,3 +41,5 @@ E nunca pensar como apostador, pois mesmo quando decidir por um ativo com uma ex
 A Economia comportamental é o ponto de partida para o investidor iniciante, mas a linguagem acadêmica, cria um distanciamento entre o conhecimento e aquele que o busca, e o “canto da sereia” dos aproveitadores de boa vontade, empurra os iniciantes para o rochedo, causando estragos logo no início da caminhada. 
 
 Falaremos muito a respeito desse assunto, pois percebemos que foi a “virada de chave” para mudarmos a nossa forma de ver e atuar no mercado de renda variável, passando a ser lucrativo e ao mesmo tempo divertido, desde que sendo feito com disciplina e dedicação. 
+
+Post de hoje por autor: [@brunoPessoa](https://www.etoro.com/people/pessoa_bs) 

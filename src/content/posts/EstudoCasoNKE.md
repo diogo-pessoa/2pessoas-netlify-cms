@@ -42,3 +42,5 @@ Aqui começamos as operações para reduzir o tamanho do ativo na carteira. Apó
 Passamos a maior parte do tempo exposto ao risco navegando a recuperação prevista do ativo. No momento que o ativo retoma sua tendência de alta o desgaste e a frustração causados pelas decisões precipitadas anteriores influenciam a consistência e respeito a estratégia. É quando a Heurística da Disponibilidade muito útil para tomadas de decisões no nosso cotidiano nos atrapalha. Pois cria um viés cognitivo onde a carga emocional influencia em novas análises. 
 
 Fica a lição neste cenário, respeite sua estratégia, e análise e fique atento as armadilhas do emocional em seus Investimentos. Espero que o caso acima ajude nas próximas operações. Continue Investindo!
+
+Post de hoje por autor: [@brunoPessoa](https://www.etoro.com/people/pessoa_bs) 
