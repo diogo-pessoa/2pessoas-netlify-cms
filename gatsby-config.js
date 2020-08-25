@@ -53,6 +53,33 @@ module.exports = {
               ] 
             }
           },
+          {
+            resolve: `gatsby-plugin-i18n`,
+            options: {
+              langKeyDefault: 'pt',
+              langKeyForNull: 'pt',
+              prefixDefault: false,
+              useLangKeyLayout: false,
+              markdownRemark: {
+                postPage: 'src/templates/blog-post.js',
+                query: `
+                  {
+                    allMarkdownRemark {
+                      edges {
+                        node {
+                          fields {
+                            slug,
+                            langKey
+                          }
+                        }
+                      }
+                    }
+                  }
+                `
+              },
+              pagesPaths: [ '/src/content/pages/', '/src/content/pages/']
+            },
+          },
           `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-images`,
