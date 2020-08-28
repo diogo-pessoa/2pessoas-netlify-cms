@@ -8,7 +8,7 @@ cta:
   ctaLink: /about
 ---
  
-Começamos esse blog a fim de compartilhar nossas experiencias, pois ao longo dos anos investindo testamos diferentes estratégias até consolidar um comportamento que nos permitiu ganhos consistentes.
+Começamos esse blog a fim de compartilhar nossas experiências, pois ao longo dos anos investindo testamos diferentes estratégias até consolidar um comportamento que nos permitiu ganhos consistentes.
 
 Keep Investing! 
 
