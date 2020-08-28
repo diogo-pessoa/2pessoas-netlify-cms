@@ -8,7 +8,7 @@ cta:
   ctaLink: /about
 ---
  
-Começamos esse blog a fim de compartilhar nossas experiencias. Pois ao longo dos anos investindo testamos diferentes estratégias até consolidar um comportamento que permite ganhos consistentes, ou prepare para saída que respeitem a estratégia. O ditado popular já diz **“you win a few, you lose a few”**, Estamos preparados para ambos os casos. 
+Começamos esse blog a fim de compartilhar nossas experiencias, pois ao longo dos anos investindo testamos diferentes estratégias até consolidar um comportamento que nos permite ganhos consistentes. O ditado popular já diz **“you win a few, you lose a few”**, Estamos preparados para ambos os casos. 
 
 Keep Investing! 
 
