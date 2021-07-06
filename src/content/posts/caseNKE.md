@@ -3,7 +3,8 @@ template: blog-post
 title: "Estudo de Caso: NYSE:NKE" 
 slug: EstudoCasoNKE 
 date: 2020-08-26T00:00:00.000Z 
-description: Lucro sim, mas podemos dizer "um bom resultado"? 
+description: Lucro sim, mas podemos dizer "um bom resultado"?
+featuredImage: ./EstudoNKEimgs/nike.png
 --- 
 
 ![](./EstudoNKEimgs/nike.png)  
