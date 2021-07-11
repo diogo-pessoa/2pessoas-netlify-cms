@@ -1,15 +1,16 @@
 ---
 template: about-page
 slug: /about
-title: Sobre Nós
+title: About Me
 featuredImage: /assets/Graph.jpg
 cta:
-  ctaText: Saiba mais
+  ctaText: About Me
   ctaLink: /about
 ---
  
-Começamos esse blog a fim de compartilhar nossas experiências, pois ao longo dos anos investindo testamos diferentes estratégias até consolidar um comportamento que nos permitiu ganhos consistentes.
 
+I started this blog to share my experiences and stories after years investing, testing different strategies and frameworks. I finally developed a state of mind and repeatable behavior that allowed me consistent gains.
+ 
 Keep Investing! 
 
-[@Diogo Pessoa](https://www.etoro.com/people/diogopessoa) & [@Bruno Pessoa](https://www.etoro.com/people/pessoa_bs) 
+[@Bruno Pessoa](https://www.etoro.com/people/pessoa_bs) 

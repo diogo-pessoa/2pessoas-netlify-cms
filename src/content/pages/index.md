@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: 2 Irmãos à distância investindo juntos.
+title:  2 Expatriate brothers investing together.
 tagline: Keep Investing!
 featuredImage: /assets/bear-Bull-chess.jpg
 cta:
-  ctaText: Saiba mais
+  ctaText: About Us
   ctaLink: /about
 ---
 
-Através de estudos e compartilhamento de experiencias, traçamos nosso caminho para resultados **consistentes** e **disciplina na tomada de decisões**. Pare de apostar e comece a investir no mercado conosco. 
+Paving our way to **consistent** results and discipline **decision making**. Our motto is stop betting, start investing.
