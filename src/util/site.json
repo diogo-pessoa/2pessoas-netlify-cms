@@ -4,7 +4,8 @@
     "titleTemplate": "%s",
     "description": "A Pessoa trading",
     "siteUrl": "https://pessoasinvesting.com",
-    "image": "/assets/stackrole.png"
+    "image": "/assets/stackrole.png",
+    "twitterUsername": ""
   },
   "ga": "G-HQB7B1D9T2"
 }
