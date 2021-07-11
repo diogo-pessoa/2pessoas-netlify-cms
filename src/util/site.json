@@ -1,11 +1,10 @@
 {
   "meta": {
-    "title": "2 Pessoas",
+    "title": "Pessoa Investing",
     "titleTemplate": "%s",
-    "description": "2Brothers trading",
-    "siteUrl": "https://2Pessoas.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@PessoaSDiogo"
+    "description": "A Pessoa trading",
+    "siteUrl": "https://pessoasinvesting.com",
+    "image": "/assets/stackrole.png"
   },
   "ga": "G-HQB7B1D9T2"
 }

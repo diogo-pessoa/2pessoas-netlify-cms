@@ -9,7 +9,7 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "About Me"
+    title: "About"
   },
   {
     path: "/blog",
@@ -17,7 +17,7 @@ const MenuItems = [
   },
   {
     path: "/contact",
-    title: "Contact Me"
+    title: "Contact"
   },
 ]
 
