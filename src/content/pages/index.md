@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title:  2 Expatriate brothers investing together.
+title:  Sharing my investing experiences
 tagline: Keep Investing!
 featuredImage: /assets/bear-Bull-chess.jpg
 cta:
@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Paving our way to **consistent** results and discipline **decision making**. Our motto is stop betting, start investing.
+Paving the way to **consistent** results and discipline **decision making**. My motto is stop betting, start investing. 

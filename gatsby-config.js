@@ -101,8 +101,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `2 pessoas`,
-        short_name: `2 pessoas`,
+        name: `Pessoa Investing`,
+        short_name: `PessoasInvesting`,
         start_url: `/`,
         background_color: `#0d904f`,
         theme_color: `#0d904f`,
