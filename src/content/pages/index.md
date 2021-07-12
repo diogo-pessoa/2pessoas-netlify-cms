@@ -5,7 +5,7 @@ title:  Sharing my investiment experiences
 tagline: Keep Investing!
 featuredImage: /assets/bear-Bull-chess.jpg
 cta:
-  ctaText: About Us
+  ctaText: More about me
   ctaLink: /about
 ---
 
