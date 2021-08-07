@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title:  Sharing my investiment experiences
+title:  Sharing my investment experience
 tagline: Keep Investing!
 featuredImage: /assets/bear-Bull-chess.jpg
 cta:
@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Paving the way to **consistent** results and disciplined **decision making**. My motto is stop betting, start investing. 
+Paving the way to **consistent** results and disciplined **decision-making**. My motto is stop betting, start investing. 
