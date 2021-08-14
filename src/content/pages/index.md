@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title:  Sharing my investment experience
 tagline: Keep Investing!
-featuredImage: assets/Bull_Bear_chess.jpeg 
+featuredImage: /assets/Bull_Bear_chess.jpeg 
 cta:
   ctaText: More about me
   ctaLink: /about
